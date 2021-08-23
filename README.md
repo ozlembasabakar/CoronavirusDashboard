@@ -6,6 +6,6 @@ Dashboard can be found [here](https://public.tableau.com/views/CovidDashboard_16
 
 
 ## Screenshot of Dashboard
-![Dashboard](Tableau\CovidDashboard.png)
+![Dashboard](Tableau/CovidDashboard.png)
 
 
